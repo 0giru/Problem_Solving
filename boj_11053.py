@@ -44,5 +44,3 @@ print(max(dp))
 #             count = temp
 #         temp_list.clear()
 # print(count)
-
-
